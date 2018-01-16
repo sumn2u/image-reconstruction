@@ -21,7 +21,7 @@ having analysed different hypothesis and assessed their appropriateness.
  - [Cosine similarity between two sentences ](https://goo.gl/kJfn6z)
 
 **Rojesh Man Shikhrakar** 
-- [Autonomous Thrust-Assisted Perching of a Fixed-Wing UAV on Vertical Surfaces ](https://www.researchgate.net/publication/318449836_Autonomous_Thrust-Assisted_Perching_of_a_Fixed-Wing_UAV_on_Vertical_Surfaces)
+
 
 # Work on Progress
 
