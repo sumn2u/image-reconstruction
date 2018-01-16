@@ -17,8 +17,8 @@ having analysed different hypothesis and assessed their appropriateness.
 **Suman Kunwar**
  - [Image Compression Algorithm and JPEG Standard ](http://www.ijsrp.org/research-paper-1217/ijsrp-p7224.pdf)
  - [JPEG Image Compression Using CNN ](https://www.researchgate.net/publication/322239207_JPEG_Image_Compression_Using_CNN)
- - [JPEG image Compression Algorithm] (https://medium.com/@sumn2u/jpeg-image-compression-algorithm-979de35c808d)
- - [Cosine similarity between two sentences] (https://medium.com/@sumn2u/cosine-similarity-between-two-sentences-c0802fe0a1c1)
+ - [JPEG image Compression Algorithm ](https://goo.gl/o1G2fG)
+ - [Cosine similarity between two sentences ](https://goo.gl/kJfn6z)
 
 **Rojesh Man Shikhrakar** 
 - [Autonomous Thrust-Assisted Perching of a Fixed-Wing UAV on Vertical Surfaces ](https://www.researchgate.net/publication/318449836_Autonomous_Thrust-Assisted_Perching_of_a_Fixed-Wing_UAV_on_Vertical_Surfaces)
