@@ -1,4 +1,4 @@
-## Image Reconstruction Comparisons and Algorithm
+## Compressed Image Reconstruction Comparisons and Algorithm
 
 **Motivation :**
 > That said, a research paper must include some original contributions,
